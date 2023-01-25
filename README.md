@@ -2,7 +2,7 @@
 
 ## Visulation of the App
 
-![image](./homewotwn.png)
+![image](./hometown.png)
 
 
 ## Description
