@@ -1,4 +1,36 @@
-# co09544b4a7cb36b79a0d7dca
+## Project: Scrimba Solo Porject - Hometown Site
+
+## Visulation of the App
+
+![image](./homewotwn.png)
+
+
+## Description
+```bash
+- I created a solo project called "Hometown Homepage" of Module 2 on [Scrimba](https://scrimba.com/learn/htmlandcss/solo-project-hometown-homepage-cob2e4812840974342ebb42eb).
+-You can see the visual representation of the app above.
+```
+
+## What I Learned?
+```bash
+-Mastered HTML/CSS.
+- Classes
+- Flexbox
+- Background-image with linear gradients
+- The color palette
+- Google Fonts
+```
+
+
+## Stretch Goals: COMPLETED
+```bash
+- Make it about your own honetown, country or whatever place: Karaburun
+- Use different color palette: [Colors](https://coolors.co/c7eae4-a7e8bd-fcbcb8-efa7a7-ffd972)
+- Add Google Font: [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
+- Find a way to use :hover: My images has transition attributes with hover pseudo class
+- Add a whole new section: Karaburun About section added
+```
+
 
 Quick start:
 
