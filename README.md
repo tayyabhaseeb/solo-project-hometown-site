@@ -7,7 +7,7 @@
 
 ## Description
 ```bash
-- I created a solo project called "Hometown Homepage" of Module 2 on [Scrimba](https://scrimba.com/learn/htmlandcss/solo-project-hometown-homepage cob2e4812840974342ebb42eb)
+- I created a solo project called "Hometown Homepage" of Module 2 on Scrimba.
 -You can see the visual representation of the app above.
 ```
 
