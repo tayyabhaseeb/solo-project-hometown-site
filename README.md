@@ -29,6 +29,7 @@
 - Add Google Font: [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
 - Find a way to use :hover: My images has transition attributes with hover pseudo class
 - Add a whole new section: Karaburun About section added
+- Also, I added my personal stretch goal: Linear gradient on guide section using https://uigradients.com/#BlueSkies tool.
 
 
 
