@@ -1,4 +1,4 @@
-## Project: Scrimba Solo Porject - Hometown Site
+## Project: Scrimba Solo Project - Hometown Site
 
 ## Visulation of the App
 
