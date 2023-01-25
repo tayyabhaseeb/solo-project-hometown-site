@@ -23,13 +23,13 @@
 
 
 ## Stretch Goals: COMPLETED
-```bash
+
 - Make it about your own honetown, country or whatever place: Karaburun
 - Use different color palette: [Colors](https://coolors.co/c7eae4-a7e8bd-fcbcb8-efa7a7-ffd972)
 - Add Google Font: [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
 - Find a way to use :hover: My images has transition attributes with hover pseudo class
 - Add a whole new section: Karaburun About section added
-```
+
 
 
 Quick start:
