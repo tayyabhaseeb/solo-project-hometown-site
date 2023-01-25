@@ -8,7 +8,7 @@
 ## Description
 ```bash
 - I created a solo project called "Hometown Homepage" of Module 2 on Scrimba.
--You can see the visual representation of the app above.
+- You can see the visual representation of the app above.
 ```
 
 ## What I Learned?
